@@ -54,8 +54,8 @@ This mimics behavior often seen in growth stocks that revert after sharp moves.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adambrown06/heston-simulation-model.git
-   cd heston-simulation-model
+   git clone https://github.com/adambrown06/Custom-Heston-Model.git
+   cd Custom-Heston-Model
    ```
 
 2. Install dependencies:
