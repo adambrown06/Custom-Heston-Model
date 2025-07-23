@@ -17,7 +17,7 @@ This project implements a modified **Heston stochastic volatility model** with a
 
 ## 📊 Visual Outputs
 
-- Simulated stock price paths
+- Simulated Monte Carlo stock price paths
 - Final price distribution histogram
 - 25th–75th percentile confidence bands
 - Backtest comparison vs. actual price (mean & median)
